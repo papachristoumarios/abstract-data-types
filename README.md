@@ -7,4 +7,6 @@ The data-types that are implemented are:
 
 2. Binary Trees
 
+3. Queues
+
 Note that there's no special class-like design as the code is targeted to first-time learners. 
