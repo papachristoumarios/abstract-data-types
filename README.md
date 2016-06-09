@@ -12,3 +12,9 @@ The data-types that are implemented are:
 4. Heaps / Priority Queues
 
 5. Hashtables  
+
+
+## References
+
+1. Introduction to Algorithms (aka CLRS)
+2. Data Structures and Algorithms with Object-Oriented Design Patterns in C++ (Bruno R. Preiss)
