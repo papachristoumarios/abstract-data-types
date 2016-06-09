@@ -5,8 +5,10 @@ The data-types that are implemented are:
 
 1. Linked Lists
 
-2. Binary Trees
+2. Trees (N-Ary trees, M-way Trees and more special cases like RB trees, AVL trees)
 
 3. Queues
 
-Note that there's no special class-like design as the code is targeted to first-time learners. 
+4. Heaps / Priority Queues
+
+5. Hashtables  
